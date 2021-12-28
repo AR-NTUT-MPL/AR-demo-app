@@ -1,1 +1,0 @@
-# AR-demo-app
